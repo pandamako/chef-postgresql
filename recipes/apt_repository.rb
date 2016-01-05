@@ -13,4 +13,4 @@ apt_repository node["postgresql"]["apt_repository"] do
 end
 
 # automatically get repository key updates
-package "pgdg-keyring"
+# package "pgdg-keyring"
